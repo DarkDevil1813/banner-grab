@@ -1,5 +1,5 @@
 # Author  - Hades.y2k
-# Date    - 01/06/2015
+# Date    - 02/06/2015
 # License - <GPL v2>
 
 import socket
