@@ -19,11 +19,10 @@ class bcolors:
 
 
 class BGrab():
-    print
-    print bcolors.RED + " #====" + bcolors.ENDC + bcolors.BOLD + "   SIMPLE BANNER GRABBING   " + bcolors.ENDC + bcolors.RED + "=============#" + bcolors.ENDC
+    print bcolors.RED + "\n #====" + bcolors.ENDC + bcolors.BOLD + "   SIMPLE BANNER GRABBING   " + bcolors.ENDC + bcolors.RED + "=============#" + bcolors.ENDC
     print bcolors.RED + " #==================" + bcolors.ENDC + bcolors.BOLD + "  v2 04/06/2015   " + bcolors.ENDC + bcolors.RED + "=========#" + bcolors.ENDC
     print bcolors.RED + " #=======================" + bcolors.ENDC + bcolors.BOLD + "   Hades.y2k   " + bcolors.ENDC + bcolors.RED + "=======#" + bcolors.ENDC
-    print
+    print bcolors.RED + " #==== " + bcolors.ENDC + bcolors.BOLD + "www.github.com/Hadesy2k/banner-grab" + bcolors.ENDC + bcolors.RED + " ====#\n" + bcolors.ENDC
 
 
     def __init__(self):
