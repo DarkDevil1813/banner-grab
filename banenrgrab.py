@@ -1,5 +1,6 @@
 # Author  - Hades.y2k
-# Date    - 02/06/2015
+# Date    - 04/06/2015
+# Version - 2.0
 # License - <GPL v2>
 
 import socket
@@ -20,7 +21,7 @@ class bcolors:
 class BGrab():
     print
     print bcolors.RED + " #====" + bcolors.ENDC + bcolors.BOLD + "   SIMPLE BANNER GRABBING   " + bcolors.ENDC + bcolors.RED + "=============#" + bcolors.ENDC
-    print bcolors.RED + " #===================" + bcolors.ENDC + bcolors.BOLD + "   02/06/2015   " + bcolors.ENDC + bcolors.RED + "==========#" + bcolors.ENDC
+    print bcolors.RED + " #==================" + bcolors.ENDC + bcolors.BOLD + "  v2 04/06/2015   " + bcolors.ENDC + bcolors.RED + "=========#" + bcolors.ENDC
     print bcolors.RED + " #=======================" + bcolors.ENDC + bcolors.BOLD + "   Hades.y2k   " + bcolors.ENDC + bcolors.RED + "=======#" + bcolors.ENDC
     print
 
