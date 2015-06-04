@@ -76,4 +76,4 @@ if __name__ == '__main__':
     if 'linux' in platform:
         BGrab()
     else:
-        print bcolors.RED + '[!] ' + bcolors.ENDC + bcolors.BOLD + 'This script works only in Linux.' + bcolors.ENDC
+        print '[!] This script works only in Linux.'
