@@ -6,5 +6,6 @@ only on Linux machines. If you run it on Windows, it's does not work the colorin
 very annoying.
 Unfortunately, Coloring works only on Linux. But there's one for Windows platform. File name is bangrab4wins.py.
 That one works on Windows. (But no coloring)
+I used multi-threading feature to speed up the process of grabbing.
 
 /* Hades.y2k */
